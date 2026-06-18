@@ -10,14 +10,14 @@ const projects = [
     tags: ["Java 21", "JMonkeyEngine", "Gemini API", "Docker", "PostgreSQL"],
     github: "https://github.com/mohamedbenzraidi/robot-3d-java/tree/ayoub's_branch",
   },
-  {
-    title: "Real-Time Face & Age Recognition",
-    description:
-      "A real-time deep learning application capable of detecting faces and estimating age using OpenCV and a custom-trained MobileNetV2 model.",
-    image: "/projects/ml_proj.jpg",
-    tags: ["Python", "TensorFlow", "OpenCV", "Keras", "CNN"],
-    github: "https://github.com/AyoubGourstane04/Facial-Expression-age-Recognition-System",
-  },
+//   {
+//     title: "Real-Time Face & Age Recognition",
+//     description:
+//       "A real-time deep learning application capable of detecting faces and estimating age using OpenCV and a custom-trained MobileNetV2 model.",
+//     image: "/projects/ml_proj.jpg",
+//     tags: ["Python", "TensorFlow", "OpenCV", "Keras", "CNN"],
+//     github: "https://github.com/AyoubGourstane04/Facial-Expression-age-Recognition-System",
+//   },
   {
     title: "Smart E-Commerce with Visual Search",
     description:
@@ -26,13 +26,27 @@ const projects = [
     tags: ["React", "Flask", "TensorFlow", "MobileNetV2", "Python", "PostgreSQL", "Docker"],
     github: "https://github.com/AyoubGourstane04/ecommerce-cbir-project",
   },
+//   {
+//     title: "Interactive Movie Management Platform",
+//     description:
+//       "A robust full-stack web application for browsing and managing movies. Features secure JWT authentication, role-based access control (RBAC), and automated security tasks using cron jobs.",
+//     image: "/projects/imdb_proj.png",
+//     tags: ["Java Spring Boot", "MongoDB", "Docker", "Spring Security", "Bootstrap"],
+//     github: "https://github.com/AyoubGourstane04/imdb-spring-boot.git",
+//   },
   {
-    title: "Interactive Movie Management Platform",
-    description:
-      "A robust full-stack web application for browsing and managing movies. Features secure JWT authentication, role-based access control (RBAC), and automated security tasks using cron jobs.",
-    image: "/projects/imdb_proj.png",
-    tags: ["Java Spring Boot", "MongoDB", "Docker", "Spring Security", "Bootstrap"],
-    github: "https://github.com/AyoubGourstane04/imdb-spring-boot.git",
+    title: "AI Audio Noise Reduction System",
+    description: "A deep learning model based on the U-Net architecture designed for high-fidelity vocal isolation and background noise elimination using STFT spectral masking.",
+    image: "/projects/noise-reduction.png", 
+    tags: ["Python", "TensorFlow/Keras", "U-Net", "Librosa", "Streamlit"],
+    github: "https://github.com/AyoubGourstane04/Noise-Reduction-Project",
+  },
+  {
+    title: "Distributed Student Enrollment Platform",
+    description: "A resilient microservices architecture leveraging Spring Cloud Gateway and Eureka for service discovery, featuring isolated MySQL databases, reactive inter-service communication via WebClient, and a React frontend with graceful degradation.",
+    image: "/projects/student-enrollment.png", 
+    tags: ["Java", "Spring Boot", "Spring Cloud", "Docker", "React", "MySQL"],
+    github: "https://github.com/AyoubGourstane04/student-enrollment-system",
   },
 ];
 

@@ -5,11 +5,11 @@ import {AnimatedBorderButton} from "@/components/AnimatedBorderButton"
 const skills = [
   "Java (Spring Boot, JavaFX, JMonkeyEngine)",
   "Python (TensorFlow, OpenCV, Flask)",
-  "JavaScript & TypeScript (React, Node.js)",
+  "JavaScript & TypeScript (React)",
   "C & C++ (Arduino, Qt)",
   "Docker",
   "Ansible",
-  "MongoDB & PostgreSQL",
+  "MongoDB & PostgreSQL & MySQL",
   "Oracle (PL/SQL)",
   "Git & Linux",
   "Prometheus & Grafana"
