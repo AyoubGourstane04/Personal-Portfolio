@@ -44,13 +44,13 @@ export const About = () => {
 
                         <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
                             <p>
-                                I am a second-year Software Engineering student (Cycle d'Ingénieur) at ENSA Al-Hoceima, passionate about building robust architectures and intelligent systems. My academic journey is fueled by a hands-on approach to Computer Science, ranging from distributed systems to AI integration.
+                                I am a final-year Software Engineering student at ENSA Al-Hoceima, passionate about building robust architectures and intelligent systems. My academic journey is fueled by a hands-on approach to Computer Science, ranging from distributed systems to AI integration.
                             </p>
                             <p>
-                                With practical experience as a Full Stack Intern and a portfolio including 3D virtual tours and distributed MongoDB clusters, I specialize in <strong>Java ecosystem (Spring Boot), React, and Cloud technologies</strong>. I focus on writing clean, efficient code that bridges the gap between complex backend logic and seamless user experiences.
+                                With practical experience spanning IT Service Management automation and full-stack web development, my portfolio includes everything from distributed microservices to 3D virtual tours. I specialize in the <strong>Java ecosystem (Spring Boot), React, and Cloud technologies</strong>. I focus on writing clean, efficient code that bridges the gap between complex backend logic and seamless user experiences.
                             </p>
                             <p>
-                                <strong>I am actively looking for a 4-6 weeks PFA summer internship</strong> where I can contribute my skills in full-stack development or DevOps, learn from experienced teams, and solve real-world technical challenges.
+                                <strong>I am actively seeking a 4-month end-of-studies internship (PFE) starting in February 2027</strong>, where I can apply my expertise in full-stack development, distributed architectures, and automation to solve real-world technical challenges.
                             </p>
                         </div>
 

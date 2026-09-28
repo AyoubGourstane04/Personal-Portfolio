@@ -97,8 +97,8 @@ export const Contact = () => {
                         </span>
                     </h2>
                     <p className="text-muted-foreground animate-fade-in animation-delay-200">
-                        I am actively seeking a <strong>4-6 week PFA internship</strong> for Summer 2026.
-                        If you are looking for a motivated developer with skills in Java, React, and AI,
+                        I am actively seeking a <strong>4-month PFE internship</strong> starting in February 2027. 
+                        If you are looking for a motivated software engineer with skills in Java, React, and AI, 
                         I'd love to discuss how I can contribute to your projects.
                     </p>
                 </div>
@@ -207,7 +207,7 @@ export const Contact = () => {
                                 <span className="font-medium">Currently Available</span>
                             </div>
                             <p className="text-muted-foreground text-sm">
-                                I'm open to new opportunities for a summer internship,
+                                I'm open to new opportunities for a pfe internship,
                                 let's talk!
                             </p>
                         </div>
