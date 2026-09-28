@@ -7,7 +7,15 @@ const experiences = [
       "Software Engineering Intern at OBENS TRACE SOLUTIONS, where I designed and developed a full-stack web application for managing and browsing movies.",
     technologies: ["Java", "Spring Boot", "javascript", "MongoDB", "Bootstrap", "Docker"],
     current: false,
-  }
+  },
+  {
+    period: "July 2026 — August 2026",
+    role: "ServiceNow & ITSM Intern",
+    company: "DXC Technology Morocco",
+    description: "IT Service Management Intern at DXC Technology Morocco, where I designed and implemented an automated IT Service Request Fulfillment solution and structured the IT Service Catalog.",
+    technologies: ["ServiceNow", "ITSM", "Flow Designer", "JavaScript"],
+    current: false,
+  },
 ];
 
 export const Experience = () => {

@@ -10,14 +10,14 @@ const projects = [
     tags: ["Java 21", "JMonkeyEngine", "Gemini API", "Docker", "PostgreSQL"],
     github: "https://github.com/mohamedbenzraidi/robot-3d-java/tree/ayoub's_branch",
   },
-//   {
-//     title: "Real-Time Face & Age Recognition",
-//     description:
-//       "A real-time deep learning application capable of detecting faces and estimating age using OpenCV and a custom-trained MobileNetV2 model.",
-//     image: "/projects/ml_proj.jpg",
-//     tags: ["Python", "TensorFlow", "OpenCV", "Keras", "CNN"],
-//     github: "https://github.com/AyoubGourstane04/Facial-Expression-age-Recognition-System",
-//   },
+  {
+    title: "Real-Time Face & Age Recognition",
+    description:
+      "A real-time deep learning application capable of detecting faces and estimating age using OpenCV and a custom-trained MobileNetV2 model.",
+    image: "/projects/ml_proj.jpg",
+    tags: ["Python", "TensorFlow", "OpenCV", "Keras", "CNN"],
+    github: "https://github.com/AyoubGourstane04/Facial-Expression-age-Recognition-System",
+  },
   {
     title: "Smart E-Commerce with Visual Search",
     description:
@@ -47,6 +47,13 @@ const projects = [
     image: "/projects/student-enrollment.png", 
     tags: ["Java", "Spring Boot", "Spring Cloud", "Docker", "React", "MySQL"],
     github: "https://github.com/AyoubGourstane04/student-enrollment-system",
+  },
+  {
+    title: "Full-Stack URL Shortener",
+    description: "A full-stack URL shortening platform built with Spring Boot and React, featuring PostgreSQL persistence, Redis caching for optimized URL resolution, Base62 short-code generation, and QR code generation with a Python utility.",
+    image: "/projects/url-shortener.png",
+    tags: ["Java", "Spring Boot", "React", "TypeScript", "PostgreSQL", "Redis", "Python"],
+    github: "https://github.com/AyoubGourstane04/url-shortener",
   },
 ];
 

@@ -3,18 +3,19 @@ import{ArrowRight, Github,  Linkedin, ChevronDown, Download} from 'lucide-react'
 import {AnimatedBorderButton} from "@/components/AnimatedBorderButton"
 
 const skills = [
-  "Java (Spring Boot, JavaFX, JMonkeyEngine)",
-  "Python (TensorFlow, OpenCV, Flask)",
-  "JavaScript & TypeScript (React)",
+  "Java (Spring Boot, JavaFX, JMonkeyEngine, Android SDK)",
+  "Python (TensorFlow, Keras, OpenCV, Flask, Pandas, NumPy)",
+  "JavaScript & TypeScript (React, Node.js)",
   "C & C++ (Arduino, Qt)",
-  "Docker",
-  "Ansible",
-  "MongoDB & PostgreSQL & MySQL",
-  "Oracle (PL/SQL)",
+  "PHP & Tailwind CSS",
+  "Databases & Cache (MongoDB, PostgreSQL, MySQL, Oracle PL/SQL, Redis)",
+  "DevOps & Cloud (Docker, Ansible, AWS)",
+  "ServiceNow (System Admin, ITSM)",
+  "Architecture & Networks (Microservices, System Design, UML, TCP/IP, OSPF)",
+  "Monitoring (Prometheus & Grafana)",
   "Git & Linux",
-  "Prometheus & Grafana"
+  "Postman"
 ];
-
 const downloadCv = () => {
     const link = document.createElement("a");
     link.href = "/CV_Ayoub_Gourstane.pdf";
